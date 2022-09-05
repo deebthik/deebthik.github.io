@@ -2268,6 +2268,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
+		height: 300px;
+    	margin-top: -300px;
 		position: relative;
 		margin: 0;
 		text-align: center;
